@@ -1,0 +1,58 @@
+# Laravel
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/storage/clockwork
+/storage/debugbar
+/vendor
+/.phpunit.cache
+.phpunit.result.cache
+docker-compose.override.yml
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+openapi.yaml
+_ide_helper.php
+_ide_helper_models.php
+auth.json
+
+# Environment
+.env
+.env.testing
+.env.backup
+.env.production
+
+# Symbolic link
+app
+*-backend-*
+
+# Mix
+/public/build
+/public/css
+/public/js
+/public/mix-manifest.json
+package-lock.json
+
+# IDEs and editors
+/.fleet
+/.idea
+/.vscode
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# Logs and databases
+*.log
+*.sql
+
+# OS generated files
+.DS_Store
+.DS_Store?
+.Trashes
+ehthumbs.db
+Thumbs.db
